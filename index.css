@@ -1,0 +1,212 @@
+body {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      background-image: url("images/BlockBackground.jpg"); width:100%;
+      background-color: #171e26;
+      background-repeat: no-repeat;
+      font: 20px/1.7 normal normal;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      text-shadow: 2px 2px 4px #000000;
+
+}
+
+.animation {
+  width: 100%;
+  height: 100px;
+  margin: 50px auto;
+  padding-top: 75px;
+  background-color: #ccc;
+}
+
+.TopBar {
+  background-color: #0502ff;
+}
+
+.button {
+
+  background-color: #4f89cb;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: calc(23px + .2vw);
+  padding-top: 10px ;
+  padding-bottom: 20px ;
+  width: 19.8%;
+  min-width: 206.3px;
+  transition: all 0.5s;
+  cursor: pointer;
+  float: left;
+  font-family: Comic Sans MS;
+  margin-left:0.1%;
+  margin-right:0.1%;
+  display: block;
+  height: 30px;
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button:hover span {
+  padding-right: 25px;
+}
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+.Container{
+  height: 50px;
+  background-color: #171e26;
+}
+
+.bblock {
+
+     width: 100%;
+     height: 20%;
+      min-height: 200px;
+     color: White;
+     text-align: left;
+     font-size: 20px;
+     display: block;
+     margin: auto;
+}
+p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: #b5bbce;
+}
+.wrapper {
+    width: 95%;
+    margin: 100px auto;
+        margin-top: 0px;
+        margin-right: 10px auto;
+        margin-bottom: 0px;
+        margin-left: 10px auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+}
+.videoholder
+{
+  height:20%;
+  min-height: 320px;
+  position: relative;
+  margin:auto 10px;
+  margin-top: 20px;
+  display: block;
+
+}
+.ablock {
+
+     width: 100%;
+     height: auto;
+      min-height: 200px;
+     color: White;
+     text-align: justify;
+     font-size: 20px;
+     display: block;
+     margin-top: 100px;
+}
+
+h3 {
+color: white;
+margin-left: 50px auto;
+margin-right: 50px auto;
+ text-shadow: 2px 2px 4px #000000;
+
+}
+
+ Button {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: blue; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+}
+
+ Button:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
+
+
+.main{
+
+  text-align: center;
+}
+
+iframe {
+  position: absolute;
+  margin-left: 30px;
+  right: 50px;
+   top: 0;
+   display: block;
+   box-shadow: 2px 2px 4px #000000;
+}
+.infotext{
+  vertical-align: middle;
+  display: block;
+  text-align: center;
+  width: 480px;
+  min-width: 160px;
+  max-height: 320px
+}
+.requirements
+{
+  min-height: 500px;
+  width:calc(40% - 20px);
+   margin:auto 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+  display: block;
+  position: relative;
+
+}
+.screenshot{
+  width: 30%;
+  height: 480px;
+  position:absolute;
+  right: 0;
+  box-shadow: 7px 11px 19px 0px black;
+}
+.downloadbox{
+  height: 200px;
+  width: 50%;
+  display:block;
+  float: left;
+  background-color: #171e26;
+}
+.ScDownload{
+height: 270px;
+display: block;
+
+}
+h1{
+text-align: center;
+color: white;
+
+}
+.Download{
+  margin-left: calc(50% - 62.5px);
+  height: 125px;
+  position: relative;
+}
