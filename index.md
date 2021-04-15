@@ -1,34 +1,25 @@
-## Portfolio
+## Personal Portfolio
 
 ---
 
-### Category Name 1 
+### School/Personal Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<object data="http://orievg.github.io/Math_IA.pdf" type="application/pdf" width="700px" height="700px">
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=http://orievg.github.io/Math_IA.pdf" width="500" height="700">
+</object>
+- [Comparing different ways of numerical integration](/pdf/Math_IA.pdf)
+- [Course project in Computer Hardware Engineering(Tetris game for Uno32)](https://github.com/orievg/kth-is1200)
+- [Course project in Artificial Intelligence (Converting written text to digital)](https://github.com/orievg/KTH-ID1214)
 
 ---
 
-### Category Name 2
+### Some of my work in SNDBX Group:
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[![MOB BLOCKS](https://img.youtube.com/vi/YpWEnvWN178/0.jpg)](https://www.youtube.com/watch?v=YpWEnvWN178)
 
 ---
-
-
-
+[![MOB BLOCKS](https://img.youtube.com/vi/_6MqXWD7n28/0.jpg)](https://www.youtube.com/watch?v=_6MqXWD7n28)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
