@@ -13,6 +13,7 @@
 <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=http://orievg.github.io/pdf/Math_IA.pdf" width="500" height="700">
 </object>
+- [Course project in Internet Security and Privacy (VPN project)](https://github.com/orievg/KTH-IK2206)
 - [Course project in Computer Hardware Engineering(Tetris game for Uno32)](https://github.com/orievg/kth-is1200)
 - [Course project in Artificial Intelligence (Converting written text to digital)](https://github.com/orievg/KTH-ID1214)
 - [Project in Information and Communication Technology (Collaborative)](https://github.com/v-a-p/electron)
