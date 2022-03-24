@@ -3,6 +3,11 @@
 ---
 
 ### School/Personal Projects
+- [Industrial emission and energy optimisation](/pdf/Project_report_Fortum_Final.pdf)
+  <object data="http://orievg.github.io/Project_report_Fortum_Final.pdf" type="application/pdf" width="700px" height="700px">
+  <embed src="https://drive.google.com/viewerng/
+  viewer?embedded=true&url=http://orievg.github.io/pdf/Project_report_Fortum_Final.pdf" width="500" height="700">
+  </object>
 - [Comparing different ways of numerical integration](/pdf/Math_IA.pdf)
 <object data="http://orievg.github.io/Math_IA.pdf" type="application/pdf" width="700px" height="700px">
 <embed src="https://drive.google.com/viewerng/
